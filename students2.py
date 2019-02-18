@@ -16,3 +16,5 @@ print(b)
 for a, c in sorted(marksheet):
     if c == b:
         print(a)
+
+print("thats finish")
