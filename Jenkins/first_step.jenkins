@@ -1,6 +1,6 @@
 #!grovyy
 //Check host properties
-properties([disableConcurrenBuilds()])
+properties([disableConcurrentBuilds()])
 
 pipeline {
    agent{
